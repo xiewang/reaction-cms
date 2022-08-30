@@ -54,7 +54,7 @@
     "lodash.pick": "^4.4.0",
     "meteor-node-stubs": "^0.2.6",
     "moment": "^2.18.1",
-    "moment-timezone": "^0.5.11",
+    "moment-timezone": "^0.5.35",
     "nexmo": "^1.2.0",
     "node-geocoder": "^3.16.0",
     "nodemailer": "2.7.2",
