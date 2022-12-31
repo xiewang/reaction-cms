@@ -68,7 +68,7 @@
     "prerender-node": "^2.7.0",
     "prop-types": "https://registry.npmjs.org/prop-types/-/prop-types-15.5.8.tgz",
     "query-parse": "^1.0.0",
-    "radium": "^0.18.2",
+    "radium": "^0.26.2",
     "react": "15.4.2",
     "react-addons-create-fragment": "15.4.2",
     "react-addons-pure-render-mixin": "15.4.2",
