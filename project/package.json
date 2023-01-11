@@ -24,7 +24,7 @@
     "autoprefixer": "^6.7.7",
     "autosize": "^3.0.20",
     "babel-runtime": "^6.23.0",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^1.0.3",
     "bootstrap": "^3.3.7",
     "braintree": "^2.0.2",
     "bunyan": "^1.8.9",
@@ -114,7 +114,7 @@
     "js-yaml": "^3.8.2",
     "react-addons-test-utils": "15.4.2",
     "wdio-allure-reporter": "^0.1.2",
-    "wdio-mocha-framework": "^0.5.9",
+    "wdio-mocha-framework": "^0.5.13",
     "webdriverio": "^4.6.2"
   },
   "postcss": {
